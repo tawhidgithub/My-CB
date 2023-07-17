@@ -208,7 +208,7 @@ flex-wrap: wrap;
     height: 100%;
     width: 100%;
     opacity: .7;
-    z-index: -1;
+/*     z-index: -1; */
     background-color: #6A7681;
 
 }
